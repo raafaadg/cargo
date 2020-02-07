@@ -31,3 +31,5 @@ são responsáveis por gerar regras a fim de ordenar a prioridade de entrega, vi
 ### Além da dimensão do tempo, devemos adicionar outras duas dimensões de capacidade, as quais serão responsáveis por realizar o monitoramento do peso e volume de cada veículo.
 
 ### Por fim, após toda a correta modelagem, escolheu-se aplicar um método de busca euristica para encontrar o caminho de menor custo.
+
+OBS: Neste diretório contam 2 aqruivos .py. Eu comecei desenvolvendo a solução como um VRP, depois adicioneis restrições e as janelas, porém, o tempo de execução está muito alto, sendo assim, resolvi deixar o modelo VRP também.
